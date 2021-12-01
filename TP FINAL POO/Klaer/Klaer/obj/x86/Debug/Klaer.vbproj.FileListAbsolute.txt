@@ -1,0 +1,99 @@
+F:\TP FINAL POO\Klaer\Klaer\bin\Debug\Klaer.exe
+F:\TP FINAL POO\Klaer\Klaer\bin\Debug\Klaer.pdb
+F:\TP FINAL POO\Klaer\Klaer\bin\Debug\Klaer.xml
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmInicio.resources
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.Resources.resources
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.vbproj.GenerateResource.Cache
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.exe
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.xml
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.pdb
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmCompra.resources
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmDevoluciones.resources
+F:\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmIngreso.resources
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.exe
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.xml
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.pdb
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\bin\Debug\Klaer.exe
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\bin\Debug\Klaer.pdb
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\bin\Debug\Klaer.xml
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.frmCompra.resources
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.frmDevoluciones.resources
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.frmIngreso.resources
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.frmInicio.resources
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.Resources.resources
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.vbproj.GenerateResource.Cache
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.Form1.resources
+C:\Users\Valen\Downloads\Klaer\Klaer\Klaer\obj\x86\Debug\Klaer.frmRecibo.resources
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.exe
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.xml
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.pdb
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.frmRecibo.resources
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.frmCompra.resources
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.frmDevoluciones.resources
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.frmIngreso.resources
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.frmInicio.resources
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.Resources.resources
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.vbproj.GenerateResource.Cache
+C:\Users\agestion\Desktop\Klaer\Klaer\obj\x86\Debug\Klaer.frmCriterios.resources
+C:\Users\agestion\Desktop\Klaer\Klaer\bin\Debug\Klaer.exe
+C:\Users\agestion\Desktop\Klaer\Klaer\bin\Debug\Klaer.pdb
+C:\Users\agestion\Desktop\Klaer\Klaer\bin\Debug\Klaer.xml
+F:\Klaer\Klaer\obj\x86\Debug\Klaer.exe
+F:\Klaer\Klaer\obj\x86\Debug\Klaer.xml
+F:\Klaer\Klaer\obj\x86\Debug\Klaer.pdb
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.exe
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.xml
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.pdb
+E:\Klaer\Klaer\bin\Debug\Klaer.exe
+E:\Klaer\Klaer\bin\Debug\Klaer.pdb
+E:\Klaer\Klaer\bin\Debug\Klaer.xml
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.frmCriterios.resources
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.frmRecibo.resources
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.frmCompra.resources
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.frmDevoluciones.resources
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.frmIngreso.resources
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.frmInicio.resources
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.Resources.resources
+E:\Klaer\Klaer\obj\x86\Debug\Klaer.vbproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.exe
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.xml
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.pdb
+C:\Users\usuario\Downloads\Klaer\Klaer\bin\Debug\Klaer.exe
+C:\Users\usuario\Downloads\Klaer\Klaer\bin\Debug\Klaer.pdb
+C:\Users\usuario\Downloads\Klaer\Klaer\bin\Debug\Klaer.xml
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmCriterios.resources
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmRecibo.resources
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmCompra.resources
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmDevoluciones.resources
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmIngreso.resources
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmInicio.resources
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.Resources.resources
+C:\Users\usuario\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.vbproj.GenerateResource.Cache
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.exe
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.xml
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.pdb
+C:\Users\Franco\Downloads\Klaer\Klaer\bin\Debug\Klaer.exe
+C:\Users\Franco\Downloads\Klaer\Klaer\bin\Debug\Klaer.pdb
+C:\Users\Franco\Downloads\Klaer\Klaer\bin\Debug\Klaer.xml
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmCriterios.resources
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmRecibo.resources
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmCompra.resources
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmDevoluciones.resources
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmIngreso.resources
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.frmInicio.resources
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.Resources.resources
+C:\Users\Franco\Downloads\Klaer\Klaer\obj\x86\Debug\Klaer.vbproj.GenerateResource.Cache
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.exe
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.xml
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.pdb
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\bin\Debug\Klaer.exe
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\bin\Debug\Klaer.pdb
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\bin\Debug\Klaer.xml
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmCriterios.resources
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmRecibo.resources
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmCompra.resources
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmDevoluciones.resources
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmIngreso.resources
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.frmInicio.resources
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.Resources.resources
+C:\Users\Franco\Desktop\PENDRIVE\TP FINAL POO\Klaer\Klaer\obj\x86\Debug\Klaer.vbproj.GenerateResource.Cache
